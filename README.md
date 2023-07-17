@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shweta-Choulwar
 - 👀 I’m interested in Machine learning and web development
-- 🌱 I’m currently learning angularJS,NodeJS
+- 🌱 I’m currently working with technologies like ReactJS,NodeJS
 - 📫 Reach me on shwetavchoulwar@gmail.com
 
 <!---
